@@ -1,0 +1,2 @@
+# Starting
+Inicializando na programação
